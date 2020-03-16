@@ -8,15 +8,15 @@ DEUTSCH
 
 GESCHICHTE
 ==========
-	OPEN Text zum Versailler Vertrag lesen
-	OPEN Fragen zum Text beantworten
+	DOING Text zum Versailler Vertrag lesen
+	DOING Fragen zum Text beantworten
 	CLOSED Text zu Russland (vom Zarenreich zur Sowjetunion) lesen (S. 12/13)
 	CLOSED Fragen 1 und 2 machen (S. 12/13)
 	OPEN Filme anschauen (siehe E-Mail)
 
 ITALIANO
 ========
-	CLOSED PRIORITY 15.03 - Manipulazione "UE ha un problema di plastica"
+	CLOSED 15.03 - Manipolazione "UE ha un problema di plastica"
 	OPEN Guardare il film "Edison" (Amazon Prime Video)
 	OPEN Leggere le prime due pagine di "Stato italiano e benvenuto presidente"
 	OPEN Guardare il film "Benvenuto presidente" (WeTransfer)
@@ -30,8 +30,8 @@ ITALIANO
 
 ENGLISH
 =======
-	DOING Read the book "Starters"
-	OPEN Answer to the Questions
+	DOING PRIORITY Read the book "Starters"
+	OPEN PRIORITY Answer to the Questions
 	OPEN Read the texts about cyborgs ect.
 	OPEN Do the exercises about cyborgs
 
@@ -56,7 +56,7 @@ TECHNOLOGIE UND PLANUNG
 SYSTEME & NETZE
 ===============
 	DOING Aufgaben zum DNS fertigstellen
-	OPEN Chatroom-Projekt in C
+	DOING Chatroom-Projekt in C
 
 TELEKOMMUNIKATION
 =================
