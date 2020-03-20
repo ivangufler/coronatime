@@ -41,7 +41,7 @@ MATHEMATIK
 ==========
 	OPEN Theorie zur Beschreibenden Statistik/Wahrscheinlichkeit lesen
 	OPEN Übungen zur Statistik/Wahrscheinlichkeit
-	OPEN Theorie und Übungen zu Zahlenfolgen und -reihen
+	DOING Theorie und Übungen zu Zahlenfolgen und -reihen
 
 INFORMATIK
 ==========
@@ -58,6 +58,7 @@ TECHNOLOGIE UND PLANUNG
 SYSTEME & NETZE
 ===============
 	DOING Aufgaben zum DNS fertigstellen
+	OPEN 27.03 - DNS dig Aufgabe
 	DOING Chatroom-Projekt in C
 
 TELEKOMMUNIKATION
