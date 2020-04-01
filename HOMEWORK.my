@@ -5,7 +5,7 @@ DEUTSCH
 	CLOSED Aufgabe 1 machen (S. 265)
 	CLOSED Ballade "Die Brücke am Tay" von Theodor Fontane (+ Interpretationen) lesen
 	CLOSED Den Begriff "Ballade" erläutern
-	OPEN 02.04 - Buch "Bahnwärter Thiel" lesen
+	OPEN PRIORITY 02.04 - Buch "Bahnwärter Thiel" lesen
 
 GESCHICHTE
 ==========
@@ -16,6 +16,7 @@ GESCHICHTE
 	DOING Filme anschauen (siehe E-Mail)
 	CLOSED 30.03 - Prüfung um 9.00 Uhr
 	CLOSED 30.03 - Aufgaben (siehe E-Mail)
+	OPEN 08.04 Aufgaben zur Weimarer Republik (siehe E-Mail)
 
 ITALIANO
 ========
@@ -23,8 +24,8 @@ ITALIANO
 	OPEN Guardare il film "Edison" (Amazon Prime Video)
 	CLOSED Leggere le prime due pagine di "Stato italiano e benvenuto presidente"
 	CLOSED Guardare il film "Benvenuto presidente" (WeTransfer)
-	OPEN PRIORITY 31.03 - Fare gli esercizi sul film (via foto su WhatsApp)
-	OPEN 02.04 - Lettera formale a Giuseppe Conte (alm. 180 parole)
+	CLOSED 31.03 - Fare gli esercizi sul film (via foto su WhatsApp)
+	OPEN PRIORITY 02.04 - Lettera formale a Giuseppe Conte (alm. 180 parole)
 		INFO a) spiegare come sto passando il tempo a casa
 		INFO b) spiegare se trovo utile #iorestoacasa/Italia zona rossa
 		INFO c) spiegare se trovo utile la didattica online/nuove idee
@@ -45,7 +46,7 @@ MATHEMATIK
 	DOING Theorie zur Beschreibenden Statistik/Wahrscheinlichkeit lesen
 	OPEN Übungen zur Statistik/Wahrscheinlichkeit
 	DOING Theorie und Übungen zu Zahlenfolgen und -reihen
-	DOING 02.04 - Übungen Zahlenreihen
+	DOING PRIORITY 02.04 - Übungen Zahlenreihen
 
 INFORMATIK
 ==========
@@ -57,7 +58,7 @@ INFORMATIK
 TECHNOLOGIE UND PLANUNG
 ======================
 	CLOSED Übungszettel "Zustände eines Threads" fertigstellen
-	DOING 03.04 - Übungszettel "Threadsynchronisation" fertigstellen
+	DOING PRIORITY 03.04 - Übungszettel "Threadsynchronisation" fertigstellen
 
 SYSTEME & NETZE
 ===============
@@ -70,4 +71,4 @@ TELEKOMMUNIKATION
 	OPEN Begriffe lernen (siehe E-Mail)
 	OPEN Aufgaben rechnen (siehe E-Mail)
 	CLOSED 21.03 - Projektbeschreibung
-	OPEN PRIORITY 31.03 - Neue Aufgaben HF (siehe E-Mail)
+	CLOSED 31.03 - Neue Aufgaben HF (siehe E-Mail)
