@@ -5,7 +5,8 @@ DEUTSCH
 	CLOSED Aufgabe 1 machen (S. 265)
 	CLOSED Ballade "Die Brücke am Tay" von Theodor Fontane (+ Interpretationen) lesen
 	CLOSED Den Begriff "Ballade" erläutern
-	DOING PRIORITY 02.04 - Buch "Bahnwärter Thiel" lesen
+	CLOSED 02.04 - Buch "Bahnwärter Thiel" lesen
+	OPEN 03.04 - Onlinestunde (Skype) um 11.00 Uhr
 
 GESCHICHTE
 ==========
@@ -44,10 +45,10 @@ ENGLISH
 
 MATHEMATIK
 ==========
-	DOING Theorie zur Beschreibenden Statistik/Wahrscheinlichkeit lesen
+	OPEN Theorie zur Beschreibenden Statistik/Wahrscheinlichkeit lesen
 	OPEN Übungen zur Statistik/Wahrscheinlichkeit
-	DOING Theorie und Übungen zu Zahlenfolgen und -reihen
-	DOING PRIORITY 02.04 - Übungen Zahlenreihen
+	CLOSED Theorie und Übungen zu Zahlenfolgen und -reihen
+	CLOSED 02.04 - Übungen Zahlenreihen
 
 INFORMATIK
 ==========
@@ -66,6 +67,7 @@ SYSTEME & NETZE
 	DOING Aufgaben zum DNS fertigstellen
 	CLOSED 27.03 - DNS dig Aufgabe
 	CLOSED Chatroom-Projekt in C
+	OPEN 08.04 - HTTP und FTP Aufgaben (siehe Register)
 
 TELEKOMMUNIKATION
 =================
