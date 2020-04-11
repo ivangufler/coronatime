@@ -34,7 +34,7 @@ ITALIANO
 	CLOSED Leggere il testo "L'uomo col problema"
 	CLOSED 22.03 - Fare gli esercizi sul testo (via foto su WhatsApp)
 	CLOSED 08.04 - Lezione online (Skype) alle ore 14.00
-	OPEN 17.04 - Fare un video usando il periodo ipotetico (1-3 minuti, a oppure b)
+	OPEN PRIORITY 17.04 - Fare un video usando il periodo ipotetico (1-3 minuti, a oppure b)
 		INFO a) rispondere alle domande di due persone (TV)
 		INFO b) parlare della didattica a distanza (preside)
 	OPEN 24.04 - Interrogazione su skype
@@ -48,7 +48,7 @@ ENGLISH
 	OPEN Read the texts about cyborgs ect.
 	OPEN Do the exercises about cyborgs
 	CLOSED 24.03 - Write an essay about cyborgs, 200 words
-	OPEN 20.04 - New Exercises (register)
+	OPEN PRIORITY 20.04 - New Exercises (register)
 
 MATHEMATIK
 ==========
@@ -56,7 +56,7 @@ MATHEMATIK
 	OPEN Übungen zur Statistik/Wahrscheinlichkeit
 	CLOSED Theorie und Übungen zu Zahlenfolgen und -reihen
 	CLOSED 02.04 - Übungen Zahlenreihen
-	OPEN 17.04 - Übungen zu unendlichen geometrischen Reihen
+	OPEN PRIORITY 17.04 - Übungen zu unendlichen geometrischen Reihen
 
 INFORMATIK
 ==========
@@ -69,7 +69,7 @@ TECHNOLOGIE UND PLANUNG
 =======================
 	CLOSED Übungszettel "Zustände eines Threads" fertigstellen
 	CLOSED 03.04 - Übungszettel "Threadsynchronisation" fertigstellen
-	OPEN 30.04 - Übungszettel "wait und notify" fertigstellen
+	DOING 30.04 - Übungszettel "wait und notify" fertigstellen
 
 SYSTEME & NETZE
 ===============
