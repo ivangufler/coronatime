@@ -9,7 +9,7 @@ DEUTSCH
 	CLOSED 03.04 - Onlinestunde (Skype) um 11.00 Uhr
 	CLOSED 16.04 - Lesekontrolle "Bahnwärter Thiel" um 10.00 Uhr (über E-Mail)
 	CLOSED 27.04 - Aufgaben zum Naturalismus
-	OPEN 07.05 - Neue Aufgaben zum Naturalismus
+	OPEN PRIORITY 07.05 - Neue Aufgaben zum Naturalismus
 
 GESCHICHTE
 ==========
@@ -56,7 +56,7 @@ ENGLISH
 	CLOSED 24.03 - Write an essay about cyborgs, 200 words
 	OPEN 20.04 - New Exercises (register)
 	OPEN 28.04 - Exercises about fitness (register)
-	OPEN 05.05 - "News article" exercises
+	OPEN PRIORITY 05.05 - "News article" exercises
 	
 MATHEMATIK
 ==========
@@ -65,7 +65,7 @@ MATHEMATIK
 	CLOSED Theorie und Übungen zu Zahlenfolgen und -reihen
 	CLOSED 02.04 - Übungen Zahlenreihen
 	CLOSED 17.04 - Übungen zu unendlichen geometrischen Reihen
-	OPEN 08.05 - Übungen zu Funktionen mit zwei Variablen (Abgabe Register)
+	OPEN PRIORITY 08.05 - Übungen zu Funktionen mit zwei Variablen (Abgabe Register)
 
 INFORMATIK
 ==========
@@ -79,7 +79,7 @@ TECHNOLOGIE UND PLANUNG
 =======================
 	CLOSED Übungszettel "Zustände eines Threads" fertigstellen
 	CLOSED 03.04 - Übungszettel "Threadsynchronisation" fertigstellen
-	DOING 30.04 - Übungszettel "wait und notify" fertigstellen
+	CLOSED 30.04 - Übungszettel "wait und notify" fertigstellen
 
 SYSTEME & NETZE
 ===============
@@ -87,7 +87,7 @@ SYSTEME & NETZE
 	CLOSED 27.03 - DNS dig Aufgabe
 	CLOSED Chatroom-Projekt in C
 	OPEN 08.04 - HTTP und FTP Aufgaben (siehe Register)
-	OPEN 05.05 - SMTP Labor
+	OPEN PRIORITY 05.05 - SMTP Labor
 
 TELEKOMMUNIKATION
 =================
@@ -96,7 +96,7 @@ TELEKOMMUNIKATION
 	CLOSED 21.03 - Projektbeschreibung
 	CLOSED 31.03 - Neue Aufgaben HF (siehe E-Mail)
 	OPEN Selbststudium Skripta HF
-	OPEN 03.05 - Aufgaben zu Antennen
+	OPEN PRIORITY 03.05 - Aufgaben zu Antennen
 
 BEWEGUNG UND SPORT
 ==================
