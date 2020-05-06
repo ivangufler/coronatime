@@ -66,6 +66,8 @@ MATHEMATIK
 	CLOSED 02.04 - Übungen Zahlenreihen
 	CLOSED 17.04 - Übungen zu unendlichen geometrischen Reihen
 	OPEN PRIORITY 08.05 - Übungen zu Funktionen mit zwei Variablen (Abgabe Register)
+	OPEN 15.05 - Vortest zu Funktionen mit zwei Variablen (um 10.00 Uhr)
+	OPEN 22.05 - Test zu Funktionen mit zwei Variablen (um 10.00 Uhr)
 
 INFORMATIK
 ==========
@@ -73,13 +75,15 @@ INFORMATIK
 	CLOSED PHP einrichten
 	DOING Übungszettel "HTML Einführung" fertigstellen
 	CLOSED 30.03 Übungszettel "PHP Einführung" fertigstellen
-	OPEN 04.05 - Übungszettel "PHP Sessionmanagement, OOP, usw." fertigstellen	
+	CLOSED 04.05 - Übungszettel "PHP Sessionmanagement, OOP, usw." fertigstellen	
+	OPEN 15.05 - Kapitel "Einfphrung in Datenbanken" durcharbeiten
 
 TECHNOLOGIE UND PLANUNG
 =======================
 	CLOSED Übungszettel "Zustände eines Threads" fertigstellen
 	CLOSED 03.04 - Übungszettel "Threadsynchronisation" fertigstellen
 	CLOSED 30.04 - Übungszettel "wait und notify" fertigstellen
+	OPEN 22.05 - Kapitel "Prozess der Softwareentwicklung" durcharbeiten
 
 SYSTEME & NETZE
 ===============
@@ -87,7 +91,7 @@ SYSTEME & NETZE
 	CLOSED 27.03 - DNS dig Aufgabe
 	CLOSED Chatroom-Projekt in C
 	OPEN 08.04 - HTTP und FTP Aufgaben (siehe Register)
-	OPEN PRIORITY 05.05 - SMTP Labor
+	OPEN 05.05 - SMTP Labor
 
 TELEKOMMUNIKATION
 =================
@@ -96,7 +100,7 @@ TELEKOMMUNIKATION
 	CLOSED 21.03 - Projektbeschreibung
 	CLOSED 31.03 - Neue Aufgaben HF (siehe E-Mail)
 	OPEN Selbststudium Skripta HF
-	OPEN PRIORITY 03.05 - Aufgaben zu Antennen
+	CLOSED 03.05 - Aufgaben zu Antennen
 
 BEWEGUNG UND SPORT
 ==================
